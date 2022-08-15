@@ -1,3 +1,6 @@
+python media das notas
+
+
 def somaL(lista):
     soma = 0
     for i in lista:
